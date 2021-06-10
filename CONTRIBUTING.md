@@ -44,11 +44,12 @@ def set_size(width, fraction=1, subplots=(1, 1)):
 ```
  and then use the plot command as follows:
  
- ```python
+```python
  
 with plt.style.context(['science', 'grid']):
-    plt.figure(figsize=set_size(width='half')) # for half page width figures use full for full page width figures
+    # for half page width figures use full for full page width figures
+    plt.figure(figsize=set_size(width='half'))
     plt.plot(...) # your code
     plt.savefig("name.pdf",bbox_inches='tight')
  
- ```
+```
