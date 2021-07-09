@@ -2,6 +2,7 @@
 
 This repository contains the data and analysis scripts used in the paper (here).  
 See the project webpage with burst fitting results: [FRB121102](https://thepetabyteproject.github.io/FRB121102/)
+
 Here is the basic layout for this repository.
 
 `analysis`: consists of the analysis notebooks and scripts 
