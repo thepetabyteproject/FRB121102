@@ -1,4 +1,5 @@
-Table containing links to fitting results and fitted parameters. Fit Result shows the plots comparing original spectrogram with fitted modeland Corner Plot shows the posterior distribution of parameters. 
+Table containing links to fitting results and fitted parameters. Fit Result shows the plots comparing original spectrogram with fitted model and Corner Plot shows the posterior distribution of parameters. 
+ 
 | ID     | Fit Result                                                                                                             | Corner Plot                                                                                                  |
 |:-------|:-----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------|
 | B1     | [Fit Result](fit_results/cand_tstart_57644.407719907409_tcand_61.2631000_dm_565.30000_snr_8.12529_fit_results.png)     | [Corner Plot](corner_plots/cand_tstart_57644.407719907409_tcand_61.2631000_dm_565.30000_snr_8.12529.png)     |
