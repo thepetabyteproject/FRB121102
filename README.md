@@ -1,6 +1,8 @@
 # FRB121102
 
-This repository contains the data and analysis scripts used in the paper ([here](https://arxiv.org/abs/2107.05658)).  
+This repository contains the data and analysis scripts used in the paper ([here](https://arxiv.org/abs/2107.05658)). 
+
+[Here](https://zenodo.org/record/5029530) is a link of the raw observation files.  
 
 See the project webpage with burst fitting results: [FRB121102](https://thepetabyteproject.github.io/FRB121102/)
 
